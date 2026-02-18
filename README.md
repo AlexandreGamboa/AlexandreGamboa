@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Sistemas | JavaScript & PHP**  
 🇧🇷 Brasil
 
-Eu faço **Sites**, **Banco de Dados**, e **e Sistemas de alta performançe**.  
+Eu faço **Sites**, **Banco de Dados**, e **Sistemas de alta performançe**.  
 Sou focado e me dedico ao extremo em cada projeto para deixa-lo o mais completo possivel.
 
 Dentre as técnologias que conheço, eu tenho uma afinidade melhor com o Back-end no caso linguagens como: **SQL, PHP, JavaScript**.
