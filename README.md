@@ -78,7 +78,7 @@ Dentre as técnologias que conheço, eu tenho uma afinidade melhor com o Back-en
 ## 🚀 Filosofia
 
 > _"Lealdade é uma via de mão dupla.  
-> Se eu estou pedindo a sua, tera a minha em troca."_
+> Se eu estou pedindo a sua, terá a minha em troca."_
 
 ---
 
