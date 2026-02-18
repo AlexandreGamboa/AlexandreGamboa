@@ -69,8 +69,8 @@ Dentre as técnologias que conheço, eu tenho uma afinidade melhor com o Back-en
 ## 📊 GitHub Status
 
 <p align="left">
-  <img width="420" src="https://github-readme-stats-ten-orpin-79.vercel.app/api?username=AlexandreGamboa&show_icons=true&theme=radical" />
-  <img width="380" src="https://github-readme-stats-ten-orpin-79.vercel.app/api/top-langs/?username=AlexandreGamboa&layout=compact&theme=radical" />
+  <img width="400" src="https://github-readme-stats-ten-orpin-79.vercel.app/api?username=AlexandreGamboa&show_icons=true&theme=tokyonight" />
+  <img width="360" src="https://github-readme-stats-ten-orpin-79.vercel.app/api/top-langs/?username=AlexandreGamboa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -85,5 +85,3 @@ Dentre as técnologias que conheço, eu tenho uma afinidade melhor com o Back-en
 ✋ Meu Site [AlexandreGamboa](https://alexandregamboa.github.io/Alexandre-CV/index.html)
 
 🤝 Muito obrigado por ter lido até aqui.
-
-⭐ E se você gostou, considere favoritar esse repositório.
