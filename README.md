@@ -69,8 +69,8 @@ Dentre as técnologias que conheço, eu tenho uma afinidade melhor com o Back-en
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-ten-orpin-79.vercel.app/api?username=AlexandreGamboa&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-ten-orpin-79.vercel.app/api/top-langs/?username=AlexandreGamboa&layout=compact&theme=radical" />
+  <img width="420" src="https://github-readme-stats-ten-orpin-79.vercel.app/api?username=AlexandreGamboa&show_icons=true&theme=radical" />
+  <img width="380" src="https://github-readme-stats-ten-orpin-79.vercel.app/api/top-langs/?username=AlexandreGamboa&layout=compact&theme=radical" />
 </p>
 
 ---
